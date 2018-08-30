@@ -1,0 +1,4 @@
+#Wed Aug 29 21:08:01 BRT 2018
+base.0=/Users/marcelomonier/MEGA/workspaceKotlin/ListaCustomizada/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
